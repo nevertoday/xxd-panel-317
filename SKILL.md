@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-317
-description: "Create XXD Panel 317 raster artwork: a faithful photograph paired with one rounded folk-craft totem, soft gouache and a little handmade error. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-317 or asks for this 圆拙图腾 style."
+description: "XXD Panel 317｜Round Naive Totem: keeps the photo and condenses its subject into one rounded, slightly clumsy folk-craft totem, like a chapter mark in an art book or a private seal used for years — a simplified, soft, irregular outline, natural asymmetry, few details and a few flat colour blocks. Soft gouache, wax-pastel grain, paper fibre and light screenprint texture with a matte finish; a warm neutral ground of off-white, oat or soft grey-beige with the symbol in one or two natural colours such as plant green, lake blue, soft yellow or coral; one symbol only in wide whitespace, with a short note like a handmade tag. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-317 or asks for a naive-modern folk totem, rounded handmade emblem or tactile minimal symbol from a photo."
 ---
 
 # XXD Panel 317

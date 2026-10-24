@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 317｜Round Naive Totem: keeps the photo and condenses its subject into one rounded, slightly clumsy folk-craft totem, like a chapter mark in an art book or a private seal used for years — a simplified, soft, irregular outline, natural asymmetry, few details and a few flat colour blocks. Soft gouache, wax-pastel grain, paper fibre and light screenprint texture with a matte finish; a warm neutral ground of off-white, oat or soft grey-beige with the symbol in one or two natural colours such as plant green, lake blue, soft yellow or coral; one symbol only in wide whitespace, with a short note like a handmade tag. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-317 or asks for a naive-modern folk totem, rounded handmade emblem or tactile minimal symbol from a photo.",
+  "short_description": "圆拙图腾：把照片主体收成燕麦米白底上一个圆润、略笨、水粉蜡笔质感的民艺图腾",
+  "zh-CN": {
+    "name": "圆拙图腾",
+    "tagline": "保留原照片，把主体收成一个圆润、略笨、像长期用过的民艺小图腾。",
+    "look": "照片保持原样，设计部分把主体收成一个圆润、简化的形状：轮廓不完全规则，有自然的不对称，细节很少，靠几块平涂色块认出原物，像艺术书里的章节标记，或一枚用了很多年的私人印章。表面是软水粉和蜡笔颗粒，纸纤维和轻微丝网纹理，哑光。底色是暖米白、燕麦色或柔和灰米色，符号本身用一两种自然色，如植物绿、湖蓝、柔黄或珊瑚红。整张只有这一个符号，四周大片留白；旁边一行短字，像手工标签。",
+    "traits": ["稚拙现代", "民艺工艺", "手作误差", "水粉蜡笔", "单一图腾"],
+    "good": [
+      "外形圆润、简单的单个主体：一只陶罐、一只母鸡、一座圆顶小屋、一颗苹果",
+      "带安静生活感的照片：窗台上的面包、晒太阳的猫、田里的一棵树",
+      "想做成手作品牌、独立书店或艺术书章节标记的照片"
+    ],
+    "poor": [
+      "有多个主体或静物组合的照片：一桌菜、整排货架、合影",
+      "棱角锐利、需要精确几何的主体：摩天楼、机械零件、跑车",
+      "想要精准商业 Logo、光滑精修或卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Round Naive Totem",
+    "tagline": "Keeps your photo and turns the subject into one rounded, slightly clumsy folk totem that looks long in use.",
+    "look": "The photo stays as it is. The design reduces the subject to one rounded, simplified shape with a not-quite-regular outline, natural asymmetry and very little detail, recognisable from a few flat colour blocks, like a chapter mark in an art book or a private seal used for years. The surface shows soft gouache, wax-pastel grain, paper fibre and a light screenprint texture, all matte. The ground is warm off-white, oat or soft grey-beige, and the symbol itself takes one or two natural colours such as plant green, lake blue, soft yellow or coral. There is only this one symbol in wide whitespace, with one short line beside it like a handmade tag.",
+    "traits": ["Naive modern", "Folk craft", "Handmade error", "Gouache and crayon", "Single totem"],
+    "good": [
+      "A single rounded, simple subject: a clay jar, a hen, a domed hut, an apple",
+      "Photos with a quiet everyday feel: bread on a windowsill, a cat in the sun, a lone tree in a field",
+      "Photos you want as a mark for a craft brand, an independent bookshop or a chapter in an art book"
+    ],
+    "poor": [
+      "Photos with several subjects or a still-life arrangement: a table of dishes, a full shelf, a group photo",
+      "Sharp-edged subjects that need exact geometry: skyscrapers, machine parts, sports cars",
+      "Wanting a precise corporate logo, glossy retouching or a cartoon look"
+    ]
+  },
+  "ja": {
+    "name": "まるい素朴トーテム",
+    "tagline": "写真はそのままに、主役を丸くて少し不器用な、長く使い込まれたような民藝の小さなトーテムにします。",
+    "look": "写真はそのまま残し、デザイン側は主役を丸く簡略な形ひとつにまとめます。輪郭は完全には整わず、自然な非対称があり、細部はわずかで、いくつかの平塗りの色面で元の姿がわかります。作品集の章扉の印や、何年も使われてきた私印のようです。表面は柔らかなガッシュとクレヨンの粒子、紙の繊維、軽いシルクスクリーンの質感で、マットです。地は温かな生成り、オートミール、柔らかなグレージュで、シンボル自体は植物の緑、湖の青、淡い黄、コーラルなど自然な色を一、二色だけ使います。画面にはこのシンボルひとつだけで周りは大きな余白、横に手作りのタグのような短い一行を添えます。",
+    "traits": ["素朴なモダン", "民藝の手仕事", "手作りのずれ", "ガッシュとクレヨン", "ひとつのトーテム"],
+    "good": [
+      "丸くシンプルな主役ひとつ：土の壺、めんどり、丸屋根の小屋、りんご",
+      "静かな暮らしの気配がある写真：窓辺のパン、日なたの猫、畑の一本の木",
+      "手仕事のブランド、独立系書店、作品集の章扉のマークにしたい写真"
+    ],
+    "poor": [
+      "主役が複数ある写真や静物の組み合わせ：料理が並んだ食卓、商品棚、集合写真",
+      "角が鋭く正確な幾何学が必要な主役：超高層ビル、機械部品、スポーツカー",
+      "精密な企業ロゴ、つるつるのレタッチ、キャラクター風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "둥글고 소박한 토템",
+    "tagline": "원래 사진은 그대로 두고, 주인공을 둥글고 조금 서툴며 오래 써 온 듯한 민예 토템으로 만듭니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 주인공을 둥글고 단순한 형태 하나로 줄입니다. 윤곽은 완전히 고르지 않고 자연스러운 비대칭이 있으며 세부는 아주 적어, 평면 색면 몇 개로 원래 모습을 알아봅니다. 작품집의 장 표지 표식이나 오래 써 온 개인 도장 같습니다. 표면은 부드러운 과슈와 크레용 입자, 종이 섬유, 가벼운 실크스크린 질감으로 무광입니다. 바탕은 따뜻한 미색, 오트밀, 부드러운 그레이지이고, 심벌 자체는 식물 초록, 호수 빛 파랑, 연노랑, 코랄 같은 자연색을 한두 가지만 씁니다. 화면에는 이 심벌 하나뿐이고 둘레는 넓게 비우며, 옆에 손으로 만든 태그 같은 짧은 한 줄을 붙입니다.",
+    "traits": ["소박한 모던", "민예 공예", "손작업의 오차", "과슈와 크레용", "단일 토템"],
+    "good": [
+      "둥글고 단순한 주인공 하나: 옹기, 암탉, 둥근 지붕 오두막, 사과",
+      "조용한 생활감이 있는 사진: 창가의 빵, 햇볕 쬐는 고양이, 밭 가운데 나무 한 그루",
+      "공예 브랜드, 독립 서점, 작품집 장 표지의 마크로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "주인공이 여럿이거나 정물 조합인 사진: 음식이 차려진 식탁, 진열대, 단체 사진",
+      "모서리가 날카로워 정확한 기하가 필요한 주인공: 고층 빌딩, 기계 부품, 스포츠카",
+      "정밀한 기업 로고, 매끈한 보정, 캐릭터풍을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "طوطم مستدير ساذج",
+    "tagline": "يحتفظ بصورتك ويحوّل عنصرها إلى طوطم شعبي صغير مستدير وأخرق قليلاً كأنه استُعمل طويلاً.",
+    "look": "تبقى الصورة كما هي، ويختصر التصميم العنصر في شكل واحد مستدير ومبسّط، بخط خارجي غير منتظم تماماً وتناظر طبيعي ناقص وتفاصيل قليلة جداً، يُعرف الأصل فيه من بضع مساحات لونية مسطحة، كعلامة فصل في كتاب فني أو ختم شخصي استُعمل سنوات. على السطح غواش ناعم وحبيبات أقلام الشمع وألياف الورق وملمس خفيف للشاشة الحريرية، وكله مطفأ. الخلفية بيضاء دافئة أو بلون الشوفان أو بيج رمادي ناعم، والرمز نفسه بلون أو لونين طبيعيين مثل الأخضر النباتي أو أزرق البحيرة أو الأصفر الناعم أو المرجاني. لا يوجد إلا هذا الرمز في فراغ واسع، وبجانبه سطر قصير كبطاقة مصنوعة يدوياً.",
+    "traits": ["حداثة ساذجة", "حِرفة شعبية", "أخطاء اليد", "غواش وشمع", "طوطم واحد"],
+    "good": [
+      "عنصر واحد مستدير وبسيط: جرّة فخار، دجاجة، كوخ بقبة، تفاحة",
+      "صور فيها هدوء الحياة اليومية: خبز على حافة النافذة، قطة في الشمس، شجرة وحيدة في حقل",
+      "صور تريدها علامةً لعلامة حِرفية أو مكتبة مستقلة أو فصل في كتاب فني"
+    ],
+    "poor": [
+      "صور بعناصر متعددة أو تنسيق طبيعة صامتة: مائدة عامرة، رفوف بضائع، صورة جماعية",
+      "عناصر حادة الزوايا تحتاج إلى هندسة دقيقة: ناطحات السحاب، قطع الآلات، السيارات الرياضية",
+      "الرغبة في شعار تجاري دقيق أو تنقيح لامع أو مظهر كرتوني"
+    ]
+  }
+}
